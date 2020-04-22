@@ -18,4 +18,3 @@ return state_log(date)
 
 
 end
-binding.pry
