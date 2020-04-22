@@ -14,7 +14,7 @@ end
 def engage
 date = generate_star_date
 
-return state_log(date)
+p state_log(date)
 
 
 end
